@@ -20,3 +20,4 @@ Take a look at these couple examples that I have in my own portfolio:
 **Puedo-travel:** https://https://github.com/jonNtech/Puedo-travel
 **Steakhouse website:** https://github.com/jonNtech/steakhouse-website
 
+![Gericht-steakhouse](https://user-images.githubusercontent.com/31232174/200432995-10787330-e878-4b46-b355-9a82d8fcd56f.gif)
